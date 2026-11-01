@@ -5,7 +5,6 @@ My personal portfolio website, built using HTML, CSS, and JavaScript.
 I'm a Computer Science and Philosophy student at the University of Washington. This website is a place to share my experience, projects, leadership activities, and photography.
 
 What's Included
-
 About Me: A little about my background and interests.
 Experience: My work in research, networking, and teaching.
 Projects: Projects I've worked on, including Nurture.
